@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1699282288~exp=1699282888~hmac=8e4fff21a4f47d245008e9d23d4d602bfaada6ee52bd9bd41b7e99cc1c0451e3">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duvvapusurendra&label=Profile%20views&color=0e75b6&style=flat" alt="duvvapusurendra" /> </p>
 
-- I have Worked on projects like <br><ul>**Web Mining to detect Online Spread of Terrorism</ul><ul>Task Management</ul><ul>Customer Segmentation**</ul>
+- I have Worked on projects like <br>**Web Mining to detect Online Spread of Terrorism  <br>Task Management <br>Customer Segmentation <br> Car Rental System <br> Crop Yield Analysis**
 
 - 📫 How to reach me **surendra31.da@gmail.com**
 
